@@ -1,0 +1,7 @@
+- git clone
+- git branch -vv  查看本地分支对应远程的分支对应关系
+- git branch -a 查看本地和远程所有分支
+- git branch -b fornew 以 当前分支为基础创建一个fornew分支
+- git push origin fornew 远程创建fornew分支
+- git branch -vv 
+- git branch --set-upstream-to="origin/fornew" 设置远程分支对应关系
